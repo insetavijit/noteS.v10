@@ -1,5 +1,10 @@
+> [!quote] तैत्तिरीय उपनिषद् (Vedic Text, India, ~600 BCE)  
+> **“कर्मणा प्रजया धनं अपि।”**  
+> _Pronunciation: karmaṇā prajayā dhanaṁ api_  
+> _“Action, excellence, and creation bring true prosperity.”_ 
+
 ### 2.1 Code Examples – growing difficulty
----
+
 #### 2.1.1 Basic Examples
 [[#Variables & Data Types]] • [[#Control Flow (if, elif, else, for, while)]] • [[#Functions & Parameters]] • [[#String, List & Dictionary Operations]] • [[#File I/O (open, read, write)]]
 
