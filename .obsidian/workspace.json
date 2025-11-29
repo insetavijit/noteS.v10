@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "135d86cd5fdd8538",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffdbaa171fd438c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87bce832c0c53510",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHP/2.0 APPLIED PRACTICE — PHP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.0 APPLIED PRACTICE — PHP"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe4f5d4c804276d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "fac410c342decbb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "078c53181132678b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "062f773acca88ad5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"updated\"]",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0541dcb9f10fa7c3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f4b0cb24db6f7438",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "efc5b95926108ea7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PHP/4.0 ACTIVE RECALL — PHP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 4.0 ACTIVE RECALL — PHP"
+            }
+          },
+          {
+            "id": "adae0d0d7e26f88e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PHP/4.0 ACTIVE RECALL — PHP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 4.0 ACTIVE RECALL — PHP"
+            }
+          },
+          {
+            "id": "d983c7958beeaa24",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PHP/@PHP Guideline.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of @PHP Guideline"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 400,
+    "collapsed": true
+  },
+  "right": {
+    "id": "86282bed756eab44",
+    "type": "split",
+    "children": [
+      {
+        "id": "7236b54bbe262df4",
+        "type": "tabs",
+        "dimension": 67.33333333333333,
+        "children": [
+          {
+            "id": "04677682336db9d2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4dae71c85c568d77",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ]
+      },
+      {
+        "id": "295e97ade46dc69d",
+        "type": "tabs",
+        "dimension": 32.666666666666664,
+        "children": [
+          {
+            "id": "e473ccec1fb6cfed",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 263
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "graph:Open graph view": false,
+      "obsidian-git:Open Git source control": false,
+      "daily-notes:Open today's daily note": false
+    }
+  },
+  "active": "87bce832c0c53510",
+  "lastOpenFiles": [
+    "PHP/MAP - PHP 1.0.md",
+    "_bin/arChive/Learning Engine - Start template.md",
+    "PYTHON/Map 1.0.md",
+    "Untitled.md",
+    "MAP 2.0.md",
+    "PYTHON/@PYTHON - JOURNY 1.0.md",
+    "PYTHON/1.0 FOUNDATIONS — Python.md",
+    "PYTHON/2.0 APPLIED PRACTICE — Python.md",
+    "Memory-mapped Files.md",
+    "C Extensions & Cython.md",
+    "Type Hints & Protocols.md",
+    "Concurrency Patterns (Threading, Multiprocessing, AsyncIO).md",
+    "Abstract Base Classes (ABC).md",
+    "Descriptors & Properties.md",
+    "Metaclasses & Class Decorators.md",
+    "Collections Module Deep Dive.md",
+    "Lambda & Functional Programming.md",
+    "Regular Expressions.md",
+    "Exception Handling Strategies.md",
+    "Context Managers (with statement).md",
+    "Decorators & Closures.md",
+    "OOP (Classes, Inheritance, Polymorphism).md",
+    "File I/File I-O Basics.md",
+    "List/Dict Comprehensions.md",
+    "Functions & Parameters.md",
+    "File I",
+    "List",
+    "Control Flow.md",
+    "PYTHON/APPLIED PRACTICE",
+    "PHP/Supliments",
+    "@prompts",
+    "PHP/ACTIVE RECALL",
+    "PHP/APPLIED PRACTICE",
+    "PHP/APPLIED PRACTICE/Control Flow & Iteration",
+    "Co",
+    "@Papers",
+    "Untitled.canvas"
+  ]
+}
