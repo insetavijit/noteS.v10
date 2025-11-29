@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYthon/4.0 ACTIVE RECALL/ACTIVE RECALL - PYTHON.md",
+                "file": "@Prompts/MAP 1.0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ACTIVE RECALL - PYTHON"
+              "title": "MAP 1.0"
             }
           }
         ]
@@ -216,21 +216,28 @@
   },
   "active": "4dae71c85c568d77",
   "lastOpenFiles": [
-    "MAP 1.0.md",
+    "Word Press/@GuidLine - Wordpress.md",
+    "Word Press/4.0 ACTIVE RECALL/ACTIVE RECALL - Wordpress.md",
+    "Word Press/3.0 QUICK REFERENCE/QUICK REFERENCE MAP (PYTHON).md",
+    "Word Press/2.0 APPLIED PRACTICE/preface - applied practice - python.md",
+    "Word Press/1.0 FOUNDATIONS/Preface.md",
+    "@Prompts/MAP 1.0.md",
+    "Untitled 1.md",
+    "Word Press/5.0 STAYING CURRENT",
+    "Word Press/4.0 ACTIVE RECALL",
+    "Word Press/Word Press",
+    "Word Press/3.0 QUICK REFERENCE",
+    "Word Press/2.0 APPLIED PRACTICE",
+    "Word Press/1.0 FOUNDATIONS",
+    "Word Press",
+    "PYthon/Word Press",
+    "PYthon/4.0 ACTIVE RECALL/ACTIVE RECALL - PYTHON.md",
     "PYthon/2.0 APPLIED PRACTICE/preface - applied practice - python.md",
     "PYthon/1.0 FOUNDATIONS/Preface.md",
     "PYthon/3.0 QUICK REFERENCE/QUICK REFERENCE MAP (PYTHON).md",
     "takeaways.md",
     "PYthon",
     "PYthon/5.0 STAYING CURRENT",
-    "PYthon/4.0 ACTIVE RECALL",
-    "PYthon/3.0 QUICK REFERENCE",
-    "PYthon/2.0 APPLIED PRACTICE",
-    "PYthon/1.0 FOUNDATIONS",
-    "Untitled 1.md",
-    "PYthon/4.0 ACTIVE RECALL/ACTIVE RECALL - PYTHON.md",
-    "@Prompts",
-    "PHP",
     "PHP/MAP - PHP 1.0.md",
     "_bin/arChive/Learning Engine - Start template.md",
     "PYTHON/Map 1.0.md",
@@ -245,13 +252,6 @@
     "Abstract Base Classes (ABC).md",
     "Descriptors & Properties.md",
     "Metaclasses & Class Decorators.md",
-    "Collections Module Deep Dive.md",
-    "Lambda & Functional Programming.md",
-    "Regular Expressions.md",
-    "Exception Handling Strategies.md",
-    "Context Managers (with statement).md",
-    "File I",
-    "List",
     "Untitled.canvas"
   ]
 }

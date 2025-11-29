@@ -66,7 +66,7 @@
     4.5.4 90-Day Mastery Cycle – long-term retention  
 
 ---
-# 5. STAYING CURRENT
+# 5. STAYING CURRENT (After 29NOV25)
 5.1 New Features & Updates – brief summaries of what’s newly introduced  
 5.2 Breaking Changes & Deprecations – features removed or altered  
 5.3 Migration Guides – how to transition from old to new versions  
