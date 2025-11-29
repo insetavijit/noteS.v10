@@ -10,11 +10,11 @@
 
 ---
 
-### **2.1.1 Basic Examples**
+### **[[2.1.1 Basic Examples]]**
 
-[[#Enqueue Styles & Scripts]] • [[#Add Shortcodes]] • [[#Custom Post Type]] • [[#Custom Taxonomy]] • [[#Basic Theme Template]]
+[[Enqueue Styles & Scripts]] • [[#Add Shortcodes]] • [[#Custom Post Type]] • [[#Custom Taxonomy]] • [[#Basic Theme Template]]
 
-- **Enqueue Styles & Scripts** – proper loading of CSS & JS using `wp_enqueue_script()`
+- **[[Enqueue Styles & Scripts]]** – proper loading of CSS & JS using `wp_enqueue_script()`
     
 - **Add Shortcodes** – reusable content components inside posts & pages
     

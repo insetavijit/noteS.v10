@@ -230,15 +230,3 @@ Every broken feature fixed from memory increases mastery more than passive study
 > To master, you must retrieve repeatedly under challenge.**
 
 ---
-
----
-
-## **Next pathways (choose one)**
-
-a) Add **Flashcards (Q/A)** generated automatically from this chapter  
-b) Convert to **Printable 2-page revision sheet**  
-c) Turn into **Practice Challenges Workbook**  
-d) Build a **Mind-map diagram version**  
-e) Create **real quizzes with scoring**
-
-**Reply with: a / b / c / d / e / f (all)** 🌿
