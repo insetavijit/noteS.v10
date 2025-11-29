@@ -13,7 +13,7 @@ date: 2025-11-29
 
 ---
 
-## [[1.1 Definitions – brief overview of essential WordPress terms and concepts]]
+## [[1.1 Definitions — Essential WordPress Terms & Core Concepts]]
 
 - **WordPress Core** – foundational engine powering everything
     

@@ -167,15 +167,3 @@ Landing pages, CRM dashboards, automation tools, branded customer systems
 Headless / Jamstack (React/Next.js, Vue/Nuxt), ERP, Payment gateways, AI-based services
 
 ---
-
----
-
-## **Next options**
-
-a) Convert these into **clickable wiki pages** (`[[CPT]]`, `[[WP_Query]]`, etc.)  
-b) Create **real code snippets** per section  
-c) Build **mind-map / diagram**  
-d) Add **Keywords section** summary  
-e) Start **Applied Practice build series**
-
-**Choose a / b / c / d / e** 🌿
