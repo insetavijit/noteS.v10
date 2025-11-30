@@ -8,7 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4f3f7a9feaf65d5a",
+            "id": "56eaa429fa9c84e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RAG/Contents map.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Contents map"
+            }
+          },
+          {
+            "id": "c1c49a3eac919188",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_bin/CONTENTS LITE.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CONTENTS LITE"
+            }
+          },
+          {
+            "id": "8ca19401a818a2ce",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -17,7 +45,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,12 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "_bin/CONTENTS LITE.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of CONTENTS LITE"
             }
           }
         ],
@@ -211,31 +241,33 @@
   },
   "active": "4dae71c85c568d77",
   "lastOpenFiles": [
-    "Untitled.md",
-    "PYthon/CONTENTS EXTENDED.md",
-    "PYthon/3.0 QUICK REFERENCE/QUICK REFERENCE MAP (PYTHON).md",
-    "PYthon/CONTENTS LITE.md",
-    "takeaways.md",
+    "_bin",
+    "_bin/CONTENTS LITE.md",
+    "RAG/Contents map.md",
+    "RAG/FOUNDATION.md",
+    "RAG/QUICK REFERENCE.md",
+    "PYthon/Ideas.md",
     "PYthon/CONTENTS MAP.md",
-    "PYthon/1.0 FOUNDATIONS/Preface.md",
-    "NSA.md",
-    "PYthon/2.0 APPLIED PRACTICE/preface - applied practice - python.md",
+    "RAG/4. ACTIVE RECALL.md",
     "PYthon/4.0 ACTIVE RECALL/ACTIVE RECALL - PYTHON.md",
-    "Word Press/2.0 APPLIED PRACTICE/@preface - applied practice - python.md",
-    "Word Press/@GuidLine - Wordpress.md",
-    "Word Press/2.0 APPLIED PRACTICE/2.1.1 Basic Examples.md",
+    "Untitled.md",
+    "PYthon/3.0 QUICK REFERENCE/QUICK REFERENCE MAP (PYTHON).md",
+    "NSA.md",
+    "RAG/APPLIED.md",
+    "PYthon/2.0 APPLIED PRACTICE/preface - applied practice - python.md",
+    "PYthon/Recordings.md",
+    "PYthon/1.0 FOUNDATIONS/Preface.md",
     "@Prompts/MAP 1.0.md",
+    "PYthon/CONTENTS EXTENDED.md",
+    "PYthon/CONTENTS LITE.md",
+    "RAG",
+    "Word Press/@GuidLine - Wordpress.md",
+    "takeaways.md",
+    "Word Press/2.0 APPLIED PRACTICE/@preface - applied practice - python.md",
+    "Word Press/2.0 APPLIED PRACTICE/2.1.1 Basic Examples.md",
     "Word Press/1.0 FOUNDATIONS/@FOUNDATIONS - preface.md",
     "Word Press/1.0 FOUNDATIONS/1.0 FOUNDATIONS — WORDPRESS.md",
     "Word Press/1.0 FOUNDATIONS/1.1 Definitions — Essential WordPress Terms & Core Concepts.md",
-    "Word Press/1.0 FOUNDATIONS/@ FOUNDATIONS A Ocean's Snapshot.md",
-    "Word Press/4.0 ACTIVE RECALL/ACTIVE RECALL - Wordpress.md",
-    "Word Press/3.0 QUICK REFERENCE/QUICK REFERENCE MAP (PYTHON).md",
-    "Word Press/supl - Wp exicution tree.md",
-    "1.1 Definitions – brief overview of essential WordPress terms and concepts.md",
-    "Word Press/2.0 APPLIED PRACTICE/Enqueue Styles & Scripts.md",
-    "Word Press/2.0 APPLIED PRACTICE/wp_enqueue_style().md",
-    "Word Press/1.0 FOUNDATIONS/1.2 Core Principles — Foundational Engineering Philosophy.md",
     "Word Press/5.0 STAYING CURRENT",
     "Word Press/4.0 ACTIVE RECALL",
     "Word Press 1",
@@ -245,8 +277,6 @@
     "Word Press",
     "PYthon/Word Press",
     "PYthon",
-    "PYthon/5.0 STAYING CURRENT",
-    "PHP/MAP - PHP 1.0.md",
     "Untitled.canvas"
   ]
 }
